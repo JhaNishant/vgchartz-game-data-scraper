@@ -1,0 +1,9 @@
+# Python cache files
+__pycache__/
+*.pyc
+
+# Virtual environment directory
+venv/
+
+# Excel output file (if you don't want to commit scraped data)
+vgchartz_games.xlsx
